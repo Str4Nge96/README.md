@@ -1,4 +1,4 @@
-# Ransomware Detector — Starter
+# Ransomware Detector Pro
 
 A modular ransomware detection system combining static heuristics, sandbox behavioral analysis, and machine learning.
 
